@@ -1,27 +1,18 @@
-background-color:gray;
-}
-#img1 {
-position: absolute;
-left: -250px;
-width: 200px;
-height: 400px;
-background: red;
-}
 
-#container {
-position: relative;
-width: 200px;
-background: #ffffff;
-height: 400px;
-margin: 0 auto;
-}
-
-#img2{
-position: relative;
-right: -250px ;
-width: 200px;
-background: #ff00ff;
-height: 400px;
-margin: 0 auto;
-}
-
+body{
+    background-color: aquamarine;
+    }
+    div{
+    
+    margin: 0 auto;
+    position:relative;
+    width: 1200px;
+    min-height: 100px;
+    overflow: visible;
+    padding: auto;
+    
+    color: #000000;
+    border: 10px double #000000;
+    
+    
+    }
