@@ -13,7 +13,7 @@ body {
     margin: 20px auto;
     background-color: #fdf9c4;
     border-radius: 8px;
-    border-style: dotted;
+    border-style: double;
 }
 
 .item {
