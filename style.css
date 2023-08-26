@@ -10,6 +10,8 @@ body {
 
 .titulo{
  background-color: #ffffff;
+ border-radius: 8px;
+ border-style: double;
 
 }
 
