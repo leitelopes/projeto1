@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2? family= Poppins:ital@1 & family= Roboto:wght@400;700 & display=swap');
 
 body {
-    background-color:#ff1493;
+    background-color:#FFFFFF;
    
 }
 
@@ -12,7 +12,7 @@ body {
 .titulo{
 border: 30px solid blue;
 border-radius: 20px;
-background-color:#ff1493;
+background-color:#FFFFFF;
 border-radius: 8px;
 border-color:#000000;
 text-align: center;
