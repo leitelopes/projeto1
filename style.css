@@ -10,9 +10,9 @@ body {
 
 
 .titulo{
+ box-shadow: 10px 20px grey;
  background-color:#00ffff;
  border-radius: 8px;
- border-style: thick;
  border-color:#000000;
  text-align: center;
 
