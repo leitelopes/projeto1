@@ -10,11 +10,12 @@ body {
 
 
 .titulo{
- box-shadow: 10px 20px grey;
- background-color:#dda0dd;
- border-radius: 8px;
- border-color:#000000;
- text-align: center;
+border: 30px solid blue;
+border-radius: 20px;
+background-color:#dda0dd;
+border-radius: 8px;
+border-color:#000000;
+text-align: center;
 
 }
 
