@@ -12,8 +12,8 @@ body {
 .titulo{
  background-color:#00ffff;
  border-radius: 8px;
- border-style: double;
- border-color: #ff1493;
+ border-style: thick;
+ border-color:#000000;
  text-align: center;
 
 }
@@ -24,8 +24,8 @@ body {
     margin: 20px auto;
     background-color:#00ffff;
     border-radius: 8px;
-    border-style: double;
-    border-color: #ff1493;
+    border-style: thick;
+    border-color: #000000;
 }
 
 .item {
