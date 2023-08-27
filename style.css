@@ -24,7 +24,7 @@ body {
     margin: 20px auto;
     background-color:#00ffff;
     border-radius: 8px;
-    border-style: thick;
+    border-style: solid;
     border-color: #000000;
 }
 
@@ -56,7 +56,7 @@ body {
     border-color: #000000;
 
 
-        background-color: rgb(255, 175, 3);
+        
 }
 .resta1{
     background-color: #cd853f;
