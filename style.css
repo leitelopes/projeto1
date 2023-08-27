@@ -48,11 +48,12 @@ body {
     color: #00ff00;
    
 }
+
 .img{
-  background: lightblue;
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
+    height: 200px;
+    width: 230px;
+    border-radius:110px;
+    border-color: #000000;
 
 
         background-color: rgb(255, 175, 3);
