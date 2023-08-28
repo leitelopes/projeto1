@@ -22,7 +22,7 @@ text-align: center;
 .tabela {
     width: 80%;
     max-width: 1000px;
-    margin: 20px auto;
+    margin: auto;
     background-color:#ff7300;
     border-radius: 8px;
     border-style: solid;
