@@ -29,14 +29,7 @@ text-align: center;
     border-color: #000000;
 }
 
-.item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 05px;
-    padding: 05px;
- 
-}
+
 .p{
     font-family: 'Poppins', sem serifa;
     font-size: 20px;
